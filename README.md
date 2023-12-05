@@ -10,9 +10,11 @@ While the challenges gives you points based on performance and cognitive complex
 
 |  #  |                Challenge                 | Difficulty |                   Description                   | Solution | Points
 | :-: | :--------------------------------------: | :------------: | :---------------------------------------------: | :----: | :------:
-| 01  |   First gift repeated    |       🟢       | [Show](https://adventjs.dev/challenges/2023/1)  | [view](2023/01.js) |   260
+| 01  |   First gift repeated    |       🟢       | [Show](https://adventjs.dev/challenges/2023/1)  | [view](2023/01-b.js) |   340
 | 02  |  We start the factory  |       🟢       | [Show](https://adventjs.dev/challenges/2023/2)  | [view](2023/02.js) |   280
 | 03  |  The naughty elf |       🟢       | [Show](https://adventjs.dev/challenges/2023/3)  | [view](2023/03.js) |   350
+| 04  |  Turn the parentheses around |       🟡       | [Show](https://adventjs.dev/challenges/2023/4)  | [view](2023/04.js) |   200
+| 05  |  Santa's cybertruck |       🟡      | [Show](https://adventjs.dev/challenges/2023/5)  | [view](2023/05-c.js) |   170
 
 
 #### 2023 Others solutions
