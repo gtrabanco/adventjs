@@ -17,7 +17,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 05  |  Santa's cybertruck |       🟡      | [Show](https://adventjs.dev/challenges/2023/5)  | [view](2023/05-c.js) |   170
 | 06  |  The reindeer on trial |       🟢     | [Show](https://adventjs.dev/challenges/2023/6)  | [view](2023/06.js) |   360
 | 07  |  The 3D Boxes |       🟢     | [Show](https://adventjs.dev/challenges/2023/7)  | [view](2023/07-b.js) |   260
-| 08  |  Sorting the Warehouse |       🟡     | [Show](https://adventjs.dev/challenges/2023/8)  | [view](2023/08.js) |   180
+| 08  |  Sorting the Warehouse |       🟡     | [Show](https://adventjs.dev/challenges/2023/8)  | [view](2023/08-b.js) |   260
 | 09  |  Switch the lights |       🟢     | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09.js) |   180
 
 
