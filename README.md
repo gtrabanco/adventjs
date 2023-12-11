@@ -19,7 +19,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 07  |  The 3D Boxes                            |       🟢       | [Show](https://adventjs.dev/challenges/2023/7)  | [view](2023/07-b.js) |   260 | 290
 | 08  |  Sorting the Warehouse                   |       🟡       | [Show](https://adventjs.dev/challenges/2023/8)  | [view](2023/08-b.js) |   260 | 390
 | 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09.js)   |   180 | Unknown
-| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10.js)   |   180 | Unknown
+| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js)   |   280 | Unknown
 
 
 #### 2023 Others solutions
