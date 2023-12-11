@@ -16,10 +16,10 @@ While the challenges gives you points based on performance and cognitive complex
 | 04  |  Turn the parentheses around             |       🟡       | [Show](https://adventjs.dev/challenges/2023/4)  | [view](2023/04-c.js) |   250 | 380
 | 05  |  Santa's cybertruck                      |       🟡       | [Show](https://adventjs.dev/challenges/2023/5)  | [view](2023/05-c.js) |   170 | 280
 | 06  |  The reindeer on trial                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/6)  | [view](2023/06.js)   |   360 | 390
-| 07  |  The 3D Boxes                            |       🟢       | [Show](https://adventjs.dev/challenges/2023/7)  | [view](2023/07-b.js) |   260 | 290
+| 07  |  The 3D Boxes                            |       🟢       | [Show](https://adventjs.dev/challenges/2023/7)  | [view](2023/07-a.js) |   270 | 290
 | 08  |  Sorting the Warehouse                   |       🟡       | [Show](https://adventjs.dev/challenges/2023/8)  | [view](2023/08-b.js) |   260 | 390
-| 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09.js)   |   180 | Unknown
-| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js)   |   280 | Unknown
+| 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09-d.js)   |   290 | 290?
+| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js)   |   280 | 280?
 
 
 #### 2023 Others solutions
