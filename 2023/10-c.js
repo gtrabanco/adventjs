@@ -8,13 +8,15 @@ function createChristmasTree(ornaments, height) {
     return ornaments.charAt(n);
   };
   const branchLeaves = (branchNumber) =>
-    Array(branchNumber)
-      .fill("")
+    " "
+      .repeat(branchNumber)
+      .split("")
       .map((_, leaveNumber) => gaussOrnament(branchNumber - 1, leaveNumber))
       .join(" ");
 
-  const tree = Array(height)
-    .fill("")
+  const tree = " "
+    .repeat(height)
+    .split("")
     .map((_, branchNumber) => {
       const numberOfSpaces = height - branchNumber - 1;
       const spaces = " ".repeat(numberOfSpaces);
