@@ -18,19 +18,14 @@ function drawGift(size, symbol) {
       symbol.repeat(i) +
       "#";
     const rl =
-      "#" +
-      symbol.repeat(each2DWithoutLine) +
-      "#" + symbol.repeat(i) + "#";
+      "#" + symbol.repeat(each2DWithoutLine) + "#" + symbol.repeat(i) + "#";
 
     result.push(l);
     reversedLines.push(rl);
   }
   reversedLines.reverse();
 
-  result.push(
-    "#".repeat(size) +
-    symbol.repeat(each2DWithoutLine) +
-    "#"); // middle
+  result.push("#".repeat(size) + symbol.repeat(each2DWithoutLine) + "#"); // middle
   result.push(...reversedLines);
   result.push("#".repeat(size) + "\n"); // last
 
