@@ -14,7 +14,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 02  |  We start the factory                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/2)  | [view](2023/02.js)   |   270 | 390
 | 03  |  The naughty elf                         |       🟢       | [Show](https://adventjs.dev/challenges/2023/3)  | [view](2023/03.js)   |   350 | 390
 | 04  |  Turn the parentheses around             |       🟡       | [Show](https://adventjs.dev/challenges/2023/4)  | [view](2023/04-c.js) |   250 | 380
-| 05  |  Santa's cybertruck                      |       🟡       | [Show](https://adventjs.dev/challenges/2023/5)  | [view](2023/05-c.js) |   170 | 280
+| 05  |  Santa's cybertruck                      |       🟡       | [Show](https://adventjs.dev/challenges/2023/5)  | [view](2023/05-c.js) |   180 | 290-390
 | 06  |  The reindeer on trial                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/6)  | [view](2023/06.js)   |   360 | 390
 | 07  |  The 3D Boxes                            |       🟢       | [Show](https://adventjs.dev/challenges/2023/7)  | [view](2023/07-a.js) |   270 | 290
 | 08  |  Sorting the Warehouse                   |       🟡       | [Show](https://adventjs.dev/challenges/2023/8)  | [view](2023/08-b.js) |   260 | 390

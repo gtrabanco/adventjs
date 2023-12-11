@@ -1,4 +1,4 @@
-// 170
+// 180
 function cyberReindeer(road, time) {
   const BLOCKED_BARRIER = "|";
   const OPEN_BARRIER = "*";
@@ -8,19 +8,17 @@ function cyberReindeer(road, time) {
   const STEP_TO_UNLOCK = 5;
   const emptyRoad = road.replace(REINDEER, ROAD);
   const unlockedRoad = emptyRoad.replaceAll(BLOCKED_BARRIER, OPEN_BARRIER);
-  const roads = [];
-  roads.length = time;
-  roads.fill(emptyRoad);
+  const roads = (emptyRoad + "=").repeat(time).split("=", time);
   roads.fill(unlockedRoad, STEP_TO_UNLOCK, time);
+  const result = []
 
-  const getRoad = (r) => {
+  for (const r of roads) {
     const currentChar = r.charAt(gps);
-    gps += currentChar !== BLOCKED_BARRIER ? 1 : 0;
+    if(currentChar !== BLOCKED_BARRIER) {
+      gps = gps + 1;
+    }
+    result.push(`${r.substring(0, gps - 1)}${REINDEER}${r.substring(gps)}`);
+  }
 
-    const nowRoad = `${r.substring(0, gps - 1)}${REINDEER}${r.substring(gps)}`;
-
-    return nowRoad;
-  };
-
-  return roads.map(getRoad);
+  return result;
 }
