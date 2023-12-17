@@ -18,8 +18,9 @@ While the challenges gives you points based on performance and cognitive complex
 | 06  |  The reindeer on trial                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/6)  | [view](2023/06.js)   |   360 | 390
 | 07  |  The 3D Boxes                            |       🟢       | [Show](https://adventjs.dev/challenges/2023/7)  | [view](2023/07-a.js) |   270 | 290
 | 08  |  Sorting the Warehouse                   |       🟡       | [Show](https://adventjs.dev/challenges/2023/8)  | [view](2023/08-b.js) |   260 | 390
-| 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09-d.js)   |   290 | 290?
-| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js)   |   280 | 280?
+| 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09-d.js)   |   290 | 290
+| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js)   |   280 | 280
+| 11  |  The studious Elves                      |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/11.js)   |   25 | 180
 
 
 #### 2023 Others solutions
@@ -28,4 +29,4 @@ Feel free to link to your repository with your solutions with a PR =)
 
 
 --
-[1] Max Known points can be better. I got it from discord from other users.
+[1] Max Known points can be better. I got it from discord from other users. Points are given by performance and cognitive difficulty. Sometimes more performance needs a difficult cognitive difficulty, when you scale from 2999 ops/s to 3000/s it will give you 100 more points which sometimes is neccessary to get those extra points.
