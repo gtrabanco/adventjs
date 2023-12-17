@@ -1,23 +1,20 @@
 function getIndexsForPalindrome(word) {
-  const wLength = word.length;
-  const rWord = word.split('').reverse().join('');
-  if(word === rWord) {
-    return []
+  if (word === word.split("").reverse().join("")) {
+    return [];
   }
-  
-  for(let x = 0; x < wLength; x++) {
-    for(let y = x+1; y < wLength; y++) {
-      const w = word.split('');
-      w[x] = word.charAt(x);
-      w[y] = word.charAt(y);
 
-      const f = w.join('');
-      const r = w.reverse().join('');
-      if(f === r) {
-        return [x, y]
+  const wLength = word.length;
+  for (const x of Array.from({ length: wLength }).keys()) {
+    for (const y of Array.from({ length: wLength }).keys()) {
+      const w = word.split("");
+      w[x] = word.at(y);
+      w[y] = word.at(x);
+
+      if (w.join("") === w.reverse().join("")) {
+        return [x, y];
       }
     }
   }
 
-  return null
+  return null;
 }
