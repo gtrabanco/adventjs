@@ -6,14 +6,14 @@ function getIndexsForPalindrome(word) {
   }
   
   for(let x = 0; x < wLength; x++) {
-    for(let y = 0; y < wLength; y++) {
+    for(let y = x+1; y < wLength; y++) {
       const w = word.split('');
-      w[x] = word.charAt(y);
-      w[y] = word.charAt(x);
+      w[x] = word.charAt(x);
+      w[y] = word.charAt(y);
 
       const f = w.join('');
       const r = w.reverse().join('');
-      if(x !== y && f === r) {
+      if(f === r) {
         return [x, y]
       }
     }
