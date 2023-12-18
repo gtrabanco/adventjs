@@ -8,20 +8,24 @@ While the challenges gives you points based on performance and cognitive complex
 
 ### 2023 Challenges
 
-|  #  |                Challenge                 | Difficulty |                   Description                   | Solution  | Points | Max Points[1]
-| :-: | :--------------------------------------: | :------------: | :---------------------------------------------: | :----: | :------: | :----------:
-| 01  |   First gift repeated                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/1)  | [view](2023/01-b.js) |   340 | 390
-| 02  |  We start the factory                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/2)  | [view](2023/02.js)   |   270 | 390
-| 03  |  The naughty elf                         |       🟢       | [Show](https://adventjs.dev/challenges/2023/3)  | [view](2023/03.js)   |   350 | 390
-| 04  |  Turn the parentheses around             |       🟡       | [Show](https://adventjs.dev/challenges/2023/4)  | [view](2023/04-c.js) |   250 | 380
-| 05  |  Santa's cybertruck                      |       🟡       | [Show](https://adventjs.dev/challenges/2023/5)  | [view](2023/05-c.js) |   180 | 290-390
-| 06  |  The reindeer on trial                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/6)  | [view](2023/06.js)   |   360 | 390
-| 07  |  The 3D Boxes                            |       🟢       | [Show](https://adventjs.dev/challenges/2023/7)  | [view](2023/07-a.js) |   270 | 290
-| 08  |  Sorting the Warehouse                   |       🟡       | [Show](https://adventjs.dev/challenges/2023/8)  | [view](2023/08-b.js) |   260 | 390
-| 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09-d.js)   |   290 | 290
-| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js)   |   280 | 280
-| 11  |  The studious Elves                      |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/11-b.js)   |   60 | 180
-| 17  |  Optimizing the rental                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/17.js)   |   80 | ??
+|  #  |                Challenge                 | Difficulty      |                   Description                    | Solution  | Points | Max Points[1]
+| :-: | :--------------------------------------: | :------------: | :---------------------------------------------:  | :----: | :------: | :----------:
+| 01  |   First gift repeated                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/1)   | [view](2023/01-b.js) |   340 | 390
+| 02  |  We start the factory                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/2)   | [view](2023/02.js)   |   270 | 390
+| 03  |  The naughty elf                         |       🟢       | [Show](https://adventjs.dev/challenges/2023/3)   | [view](2023/03.js)   |   350 | 390
+| 04  |  Turn the parentheses around             |       🟡       | [Show](https://adventjs.dev/challenges/2023/4)   | [view](2023/04-c.js) |   250 | 380
+| 05  |  Santa's cybertruck                      |       🟡       | [Show](https://adventjs.dev/challenges/2023/5)   | [view](2023/05-c.js) |   180 | 290-390
+| 06  |  The reindeer on trial                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/6)   | [view](2023/06.js)   |   360 | 390
+| 07  |  The 3D Boxes                            |       🟢       | [Show](https://adventjs.dev/challenges/2023/7)   | [view](2023/07-a.js) |   270 | 290
+| 08  |  Sorting the Warehouse                   |       🟡       | [Show](https://adventjs.dev/challenges/2023/8)   | [view](2023/08-b.js) |   260 | 390
+| 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)   | [view](2023/09-d.js) |   290 | 290
+| 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js) |   280 | 280
+| 11  |  The studious Elves                      |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/11-b.js) |   60 | 180
+| 12  |  Is it a valid copy?                     |       🟡       | [Show](https://adventjs.dev/challenges/2023/12)  | [view](2023/12.js)   |   210 | 390
+| 13  |  Calculating the time                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/12)  | [view](2023/13.js)   |   240 | 390
+<!-- 15 -> 290 -->
+<!-- 16 -> 190 -->
+| 17  |  Optimizing the rental                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/17)  | [view](2023/17.js)   |   80 | 190
 
 
 #### 2023 Others solutions
