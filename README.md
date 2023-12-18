@@ -28,7 +28,7 @@ While the challenges gives you points based on performance and cognitive complex
 <!-- 15 -> 290 -->
 <!-- 16 -> 190 -->
 | 17  |  Optimizing the rental                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/17)  | [view](2023/17.js)   |   80 | 190
-| 18  |  The digital clock                       |       🔴       | [Show](https://adventjs.dev/challenges/2023/18)  | [view](2023/18.js)   |   70 | ?
+| 18  |  The digital clock                       |       🔴       | [Show](https://adventjs.dev/challenges/2023/18)  | [view](2023/18-b.js)   |   90 | 90?
 
 
 #### 2023 Others solutions
