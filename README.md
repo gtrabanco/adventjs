@@ -21,6 +21,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 09  |  Switch the lights                       |       🟢       | [Show](https://adventjs.dev/challenges/2023/9)  | [view](2023/09-d.js)   |   290 | 290
 | 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js)   |   280 | 280
 | 11  |  The studious Elves                      |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/11-b.js)   |   60 | 180
+| 17  |  Optimizing the rental                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/17.js)   |   80 | ??
 
 
 #### 2023 Others solutions
