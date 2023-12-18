@@ -22,7 +22,9 @@ While the challenges gives you points based on performance and cognitive complex
 | 10  |  Create your own Chrismas Tree           |       🟢       | [Show](https://adventjs.dev/challenges/2023/10)  | [view](2023/10-e.js) |   280 | 280
 | 11  |  The studious Elves                      |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/11-b.js) |   60 | 180
 | 12  |  Is it a valid copy?                     |       🟡       | [Show](https://adventjs.dev/challenges/2023/12)  | [view](2023/12.js)   |   210 | 390
-| 13  |  Calculating the time                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/12)  | [view](2023/13.js)   |   240 | 390
+| 13  |  Calculating the time                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/13)  | [view](2023/13.js)   |   240 | 390
+| 14  |  Avoid the alarm                         |       🟡       | [Show](https://adventjs.dev/challenges/2023/14)  | [view](2023/14-a.js)   |  ???[2] | 290
+<!-- 14 -> 290 -->
 <!-- 15 -> 290 -->
 <!-- 16 -> 190 -->
 | 17  |  Optimizing the rental                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/17)  | [view](2023/17.js)   |   80 | 190
@@ -35,3 +37,5 @@ Feel free to link to your repository with your solutions with a PR =)
 
 --
 [1] Max Known points can be better. I got it from discord from other users. Points are given by performance and cognitive difficulty. Sometimes more performance needs a difficult cognitive difficulty, when you scale from 2999 ops/s to 3000/s it will give you 100 more points which sometimes is neccessary to get those extra points.
+
+[2] No points due execution time error.
