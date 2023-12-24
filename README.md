@@ -31,7 +31,8 @@ While the challenges gives you points based on performance and cognitive complex
 | 18  |  The digital clock                       |       🔴       | [Show](https://adventjs.dev/challenges/2023/18)  | [view](2023/18-b.js)   |   90 | 90?
 | 19  |  Face the sabotage                       |       🟡       | [Show](https://adventjs.dev/challenges/2023/19)  | [view](2023/19.js)   |   25 | ?
 | 20  |  Distribute the weight                   |       🔴       | [Show](https://adventjs.dev/challenges/2023/20)  | [view](2023/20.js)   |   25 | ?
-| 23  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/20.js)   |   140 | ?
+| 22  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/22.js)   |   60 | ?
+| 23  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/23.js)   |   140 | ?
 
 
 #### 2023 Others solutions
