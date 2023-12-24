@@ -31,7 +31,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 18  |  The digital clock                       |       🔴       | [Show](https://adventjs.dev/challenges/2023/18)  | [view](2023/18-b.js)   |   90 | 90?
 | 19  |  Face the sabotage                       |       🟡       | [Show](https://adventjs.dev/challenges/2023/19)  | [view](2023/19.js)   |   25 | ?
 | 20  |  Distribute the weight                   |       🔴       | [Show](https://adventjs.dev/challenges/2023/20)  | [view](2023/20.js)   |   25 | ?
-| 22  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/22.js)   |   60 | ?
+| 22  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/22-b.js)   |  250 | 250[3]
 | 23  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/23.js)   |   140 | ?
 
 
@@ -44,3 +44,5 @@ Feel free to link to your repository with your solutions with a PR =)
 [1] Max Known points can be better. I got it from discord from other users. Points are given by performance and cognitive difficulty. Sometimes more performance needs a difficult cognitive difficulty, when you scale from 2999 ops/s to 3000/s it will give you 100 more points which sometimes is neccessary to get those extra points.
 
 [2] No points due execution time error.
+
+[3] You will need to do a little bit of SPAM to get more opts and get those points
