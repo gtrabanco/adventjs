@@ -1,3 +1,4 @@
+// This does not work because it takes so much time to be executed
 function maxGifts(houses) {
   if (houses.length <= 2) {
     return Math.max(...houses);

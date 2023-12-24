@@ -23,7 +23,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 11  |  The studious Elves                      |       🟢       | [Show](https://adventjs.dev/challenges/2023/11)  | [view](2023/11-b.js) |   60 | 180
 | 12  |  Is it a valid copy?                     |       🟡       | [Show](https://adventjs.dev/challenges/2023/12)  | [view](2023/12.js)   |   210 | 390
 | 13  |  Calculating the time                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/13)  | [view](2023/13.js)   |   240 | 390
-| 14  |  Avoid the alarm                         |       🟡       | [Show](https://adventjs.dev/challenges/2023/14)  | [view](2023/14-a.js)   |  ???[2] | 290
+| 14  |  Avoid the alarm                         |       🟡       | [Show](https://adventjs.dev/challenges/2023/14)  | [view](2023/14.js)   |  240 | 290
 <!-- 14 -> 290 -->
 <!-- 15 -> 290 -->
 <!-- 16 -> 190 -->
