@@ -25,7 +25,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 13  |  Calculating the time                    |       🟢       | [Show](https://adventjs.dev/challenges/2023/13)  | [view](2023/13.js)   |   240 | 390
 | 14  |  Avoid the alarm                         |       🟡       | [Show](https://adventjs.dev/challenges/2023/14)  | [view](2023/14.js)   |  240 | 290
 <!-- 15 -> 290 -->
-| 16  |  Optimizing the rental                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/16)  | [view](2023/16.js)   |   60 | 190
+| 16  |  Deploy on Friday                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/16)  | [view](2023/16.js)   |   60 | 190
 | 17  |  Optimizing the rental                   |       🟢       | [Show](https://adventjs.dev/challenges/2023/17)  | [view](2023/17.js)   |   80 | 190
 | 18  |  The digital clock                       |       🔴       | [Show](https://adventjs.dev/challenges/2023/18)  | [view](2023/18-b.js)   |   90 | 90?
 | 19  |  Face the sabotage                       |       🟡       | [Show](https://adventjs.dev/challenges/2023/19)  | [view](2023/19.js)   |   25 | ?
