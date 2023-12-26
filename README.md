@@ -33,6 +33,7 @@ While the challenges gives you points based on performance and cognitive complex
 | 20  |  Distribute the weight                   |       🔴       | [Show](https://adventjs.dev/challenges/2023/20)  | [view](2023/20.js)   |   25 | ?
 | 22  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/22-b.js)   |  250 | 250[3]
 | 23  |  Christmas Dinner                        |       🟢       | [Show](https://adventjs.dev/challenges/2023/23)  | [view](2023/23.js)   |   140 | ?
+| 25  |  Calculating distances                   |       🟡       | [Show](https://adventjs.dev/challenges/2023/25)  | [view](2023/25.js)   |   110 | ?
 
 
 #### 2023 Others solutions
